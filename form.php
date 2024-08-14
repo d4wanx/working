@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>คณิศร-610-14</title>
+    <title>พัทธดนย์-610-18</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 </head>
 <body class="p-4">
@@ -51,6 +51,6 @@
             <a href="form.php" class="btn btn-primary btn-sm d-block px-4 mx-auto mt-4">กลับไปที่ฟอร์ม</a>
         </div>
     <?php endif; ?>
-    //คณิศร ศักดิ์ทอง ม.6/10 เลขที่ 14
+    //พัทธดนย์ สุวรรณรัตน์ ม.6/10 เลขที่ 18
 </body>
 </html>
